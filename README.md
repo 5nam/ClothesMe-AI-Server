@@ -1,6 +1,6 @@
 # ClothesMe AI-Server
 
-시각장애인을 위한 AI 기반 패션 도우미 서비스 **클로즈미(ClothesMe)**의 AI 서버입니다.
+시각장애인을 위한 AI 기반 패션 도우미 서비스 클로즈미(ClothesMe)의 AI 서버입니다.
 
 ## 기획 의도
 
